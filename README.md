@@ -22,7 +22,7 @@ Collection of technical stuff related to the development of realtime rendering e
 
 * [Game Engine Series](https://www.youtube.com/watch?v=JxIZbV_XjAs), by [The Cherno Project](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
 
-## Rendering Engine at Siggraph
+## Real Time Rendering at Siggraph
 
 * [Advances in Real-Time Rendering in Games course](http://advances.realtimerendering.com/s2018/index.htm), by [SIGGRAPH 2018](https://s2018.siggraph.org)
 
