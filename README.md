@@ -8,15 +8,25 @@ Collection of technical stuff related to the development of realtime rendering e
 
 * [Vulkan Tutorial](https://vulkan-tutorial.com) (Alexander Overvoorde)
 
-### Vulkan Memory Management
+### Backend Design 
 
-* [Vulkan Memory Management: 2018 Vulkan Developer Day](https://www.youtube.com/watch?v=rXSdDE7NWmA) (Jordan Logan, AMD)
+* [Multi-Threading in Vulkan](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/multi-threading-in-vulkan), by Marius Bjørge, ARM
 
-* [Vulkanised 2018 - Memory Management in Vulkan](https://www.youtube.com/watch?v=zSG6dPq57P8) (Steven Tovey, AMD)
+### Memory Management
 
-* [Vulkan Memory Management ](https://developer.nvidia.com/vulkan-memory-management) (Chris Hebert, NVIDIA)
+* [Vulkan Memory Management: 2018 Vulkan Developer Day](https://www.youtube.com/watch?v=rXSdDE7NWmA) by Jordan Logan, AMD
+
+* [Vulkanised 2018 - Memory Management in Vulkan](https://www.youtube.com/watch?v=zSG6dPq57P8), by Steven Tovey, AMD
+
+* [Vulkan Memory Management](https://developer.nvidia.com/vulkan-memory-management), by Chris Hebert, NVIDIA
 
 * [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) (GPUOpen)
+
+### Debugging
+
+* [Vulkan Debug Utilities](https://www.lunarg.com/wp-content/uploads/2018/05/Vulkan-Debug-Utils_05_18_v1.pdf), by Mark Young, LunarG
+
+* [RenderDoc](https://github.com/baldurk/renderdoc)
 
 ### Code Examples
 
