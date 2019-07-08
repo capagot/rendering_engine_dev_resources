@@ -8,6 +8,16 @@ Collection of technical stuff related to the development of realtime rendering e
 
 * [Vulkan Tutorial](https://vulkan-tutorial.com) (Alexander Overvoorde)
 
+### Vulkan Memory Management
+
+* [Vulkan Memory Management: 2018 Vulkan Developer Day](https://www.youtube.com/watch?v=rXSdDE7NWmA) (Jordan Logan, AMD)
+
+* [Vulkanised 2018 - Memory Management in Vulkan](https://www.youtube.com/watch?v=zSG6dPq57P8) (Steven Tovey, AMD)
+
+* [Vulkan Memory Management ](https://developer.nvidia.com/vulkan-memory-management) (Chris Hebert, NVIDIA)
+
+* [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) (GPUOpen)
+
 ### Code Examples
 
 ## CPU Memory Management
