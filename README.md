@@ -64,5 +64,5 @@ Collection of technical stuff related to the development of realtime rendering e
 Contributors
 --------
 
-* @capagot
-* xx
+* [@CAPagot](https://github.com/capagot)
+* [@WBreno9](https://github.com/WBreno9)
