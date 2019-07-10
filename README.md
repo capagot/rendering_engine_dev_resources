@@ -12,9 +12,11 @@ Collection of technical stuff related to the development of realtime rendering e
 
 * [Multi-Threading in Vulkan](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/multi-threading-in-vulkan), by Marius Bjørge, ARM
 
+* [Vulkan Shader Resource Binding ](https://developer.nvidia.com/vulkan-shader-resource-binding), By Christoph Kubisch, NVIDIA
+
 ### Memory Management
 
-* [Vulkan Memory Management: 2018 Vulkan Developer Day](https://www.youtube.com/watch?v=rXSdDE7NWmA) by Jordan Logan, AMD
+* [Vulkan Memory Management: 2018 Vulkan Developer Day](https://www.youtube.com/watch?v=rXSdDE7NWmA), by Jordan Logan, AMD
 
 * [Vulkanised 2018 - Memory Management in Vulkan](https://www.youtube.com/watch?v=zSG6dPq57P8), by Steven Tovey, AMD
 
