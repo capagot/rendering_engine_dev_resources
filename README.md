@@ -14,6 +14,8 @@ Collection of technical stuff related to the development of realtime rendering e
 
 * [Vulkan Shader Resource Binding ](https://developer.nvidia.com/vulkan-shader-resource-binding), By Christoph Kubisch, NVIDIA
 
+* [Vulkan Usage Recommendations](https://developer.samsung.com/game/usage) (Samsung)
+
 ### Memory Management
 
 * [Vulkan Memory Management: 2018 Vulkan Developer Day](https://www.youtube.com/watch?v=rXSdDE7NWmA), by Jordan Logan, AMD
