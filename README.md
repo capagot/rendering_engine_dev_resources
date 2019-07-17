@@ -12,9 +12,10 @@ Collection of technical stuff related to the development of realtime rendering e
 
 * [Multi-Threading in Vulkan](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/multi-threading-in-vulkan), by Marius Bjørge, ARM
 
-* [Vulkan Shader Resource Binding ](https://developer.nvidia.com/vulkan-shader-resource-binding), By Christoph Kubisch, NVIDIA
+* [Vulkan Shader Resource Binding ](https://developer.nvidia.com/vulkan-shader-resource-binding), by Christoph Kubisch, NVIDIA
 
 * [Vulkan Usage Recommendations](https://developer.samsung.com/game/usage) (Samsung)
+* [Reducing Vulkan API call overhead](https://gpuopen.com/reducing-vulkan-api-call-overhead/). by Arseny Kapoulkine
 
 ### Memory Management
 
