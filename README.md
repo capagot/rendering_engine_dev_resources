@@ -43,7 +43,7 @@ Collection of technical stuff related to the development of realtime rendering e
 
 ## Rendering Engine Implementation
 
-[lighthouse2] (https://github.com/jbikker/lighthouse2), by [Jacco Bikker](https://github.com/jbikker).
+[lighthouse2](https://github.com/jbikker/lighthouse2), a framework for realtime ray tracing by [Jacco Bikker](https://github.com/jbikker).
 
 ## Game Engine Implementation
 
