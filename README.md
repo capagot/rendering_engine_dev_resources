@@ -41,6 +41,10 @@ Collection of technical stuff related to the development of realtime rendering e
 
 * [Anatomy of a Memory Allocation](https://www.youtube.com/watch?v=c0g3S_2QxWM), by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w)
 
+## Rendering Engine Implementation
+
+[lighthouse2] (https://github.com/jbikker/lighthouse2), by [Jacco Bikker](https://github.com/jbikker).
+
 ## Game Engine Implementation
 
 ### Videos
