@@ -15,6 +15,7 @@ Collection of technical stuff related to the development of realtime rendering e
 * [Vulkan Shader Resource Binding ](https://developer.nvidia.com/vulkan-shader-resource-binding), by Christoph Kubisch, NVIDIA
 
 * [Vulkan Usage Recommendations](https://developer.samsung.com/game/usage) (Samsung)
+
 * [Reducing Vulkan API call overhead](https://gpuopen.com/reducing-vulkan-api-call-overhead/). by Arseny Kapoulkine
 
 ### Memory Management
@@ -51,6 +52,10 @@ Collection of technical stuff related to the development of realtime rendering e
 
 * [Game Engine Series](https://www.youtube.com/watch?v=JxIZbV_XjAs), by [The Cherno Project](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
 
+* [Temporal Reprojection Anti-Aliasing in INSIDE](https://www.youtube.com/watch?v=2XXS5UyNjjU), by  Lasse Jon Fuglsang Pedersen.
+
+* [High Quality Temporal Supersampling](https://www.youtube.com/watch?v=yNQ47MY-Eo0)
+
 ## Real Time Rendering at Siggraph
 
 * [Advances in Real-Time Rendering in Games course](http://advances.realtimerendering.com/s2018/index.htm), by [SIGGRAPH 2018](https://s2018.siggraph.org)
@@ -66,7 +71,7 @@ Collection of technical stuff related to the development of realtime rendering e
 * [Advances in Real-Time Rendering in Games course](http://advances.realtimerendering.com/s2015/index.html), by [SIGGRAPH 2015](http://s2015.siggraph.org)
 
 
-
+* [High Quality Temporal Supersampling](http://advances.realtimerendering.com/s2014/epic/TemporalAA.pptx), by [SIGGRAPH 2014](http://advances.realtimerendering.com/s2014/)
 
 Contributors
 --------
