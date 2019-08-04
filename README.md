@@ -7,8 +7,10 @@ Collection of technical stuff related to the development of realtime rendering e
 ### Tutorials
 
 * [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html), by [Baldur Karlsson](https://github.com/baldurk) (the creator of [RenderDoc](https://renderdoc.org/)).
+  * An introductory text that gives a quick and nice overview of the Vulkan API and architecture.
 * [Vulkan Tutorial](https://vulkan-tutorial.com), by Alexander Overvoorde.
-
+  * The tutorial starts by showing how to set up Vulkan to render a single triangle on the screen. By the end, the code example is capable of rendering elaborate 3D models with texturing and filtering. 
+  
 ### Backend Design 
 
 * [Multi-Threading in Vulkan](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/multi-threading-in-vulkan), by Marius Bjørge, ARM
