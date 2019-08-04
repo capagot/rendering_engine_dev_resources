@@ -1,6 +1,6 @@
 # Realtime rendering engine development resources.
 
-Collection of technical stuff related to the development of realtime rendering engines.
+Collection of technical stuff related to the development of realtime rendering engines with focus on Vulkan.
 
 ## Vulkan 
 
