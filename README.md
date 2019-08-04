@@ -6,7 +6,8 @@ Collection of technical stuff related to the development of realtime rendering e
 
 ### Tutorials
 
-* [Vulkan Tutorial](https://vulkan-tutorial.com) (Alexander Overvoorde)
+* [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html), by [Baldur Karlsson](https://github.com/baldurk) (the creator of [RenderDoc](https://renderdoc.org/)).
+* [Vulkan Tutorial](https://vulkan-tutorial.com), by Alexander Overvoorde.
 
 ### Backend Design 
 
